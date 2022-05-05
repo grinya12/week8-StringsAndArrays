@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/ref/NameReverse.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/ref/NameReverse.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.genruntimeconfig.cache

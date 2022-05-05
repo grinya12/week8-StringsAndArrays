@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/RandomLetter.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/RandomLetter.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/RandomLetter.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/RandomLetter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/ref/RandomLetter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/bin/Debug/net5.0/RandomLetter.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/ref/RandomLetter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/RandomLetter/obj/Debug/net5.0/RandomLetter.genruntimeconfig.cache

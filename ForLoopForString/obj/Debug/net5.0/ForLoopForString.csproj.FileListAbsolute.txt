@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ref/ForLoopForString.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ref/ForLoopForString.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.genruntimeconfig.cache

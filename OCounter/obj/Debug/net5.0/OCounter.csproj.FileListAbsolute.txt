@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/ref/OCounter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/ref/OCounter.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.genruntimeconfig.cache

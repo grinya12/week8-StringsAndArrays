@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/ref/StringReplace.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/ref/StringReplace.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.genruntimeconfig.cache

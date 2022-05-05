@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/ref/DontPanic.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/ref/DontPanic.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.genruntimeconfig.cache

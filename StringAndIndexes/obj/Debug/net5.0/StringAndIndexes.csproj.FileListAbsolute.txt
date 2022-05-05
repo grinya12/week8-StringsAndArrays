@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.deps.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.runtimeconfig.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/ref/StringAndIndexes.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/ref/StringAndIndexes.dll
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.pdb
+/Users/GRI$$$HA/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.genruntimeconfig.cache
